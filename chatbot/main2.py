@@ -1,3 +1,5 @@
+# telegram에서 가능한 chatbot
+# 나만의 여자친구 만들기
 from telegram.ext import Updater, MessageHandler, Filters
 from emoji import emojize
 
